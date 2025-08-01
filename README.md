@@ -37,6 +37,8 @@ This repository contains the Verilog implementation and testbench for a **multi-
 | S5    | S: Green                             | 3                        |
 | S6    | S: Yellow                            | 2                        |
 
+![Traffic Light FSM](images/traff.png)
+
 
 
 
